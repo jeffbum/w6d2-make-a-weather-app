@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+}
+
+.container {
+  background: linear-gradient(#91E3EF, #0F9DC1);
+  color: #2187A3;
+}
+
+#weatherApp {
+  color: #2187A3;
+}
+
+#degrees {
+  font-size: 100px;
+  color: #2187A3;
+}
+
+#textWhite {
+  font-size: 30px;
+  color: white;
+}

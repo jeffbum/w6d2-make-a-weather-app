@@ -1,0 +1,27 @@
+$lightBlue: #91E3EF;
+
+$darkBlue: #0F9DC1;
+
+$textColor: #2187A3;
+
+
+* { box-sizing: border-box;}
+img { width:100%;}
+
+.container {
+    background: linear-gradient($lightBlue, $darkBlue);
+    color: $textColor;
+    }
+#weatherApp {
+    color: $textColor;
+}
+
+#degrees {
+    font-size: 100px;
+    color: $textColor;
+}
+
+#textWhite{
+    font-size: 30px;
+    color: white;
+}
